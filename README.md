@@ -48,7 +48,7 @@ Clone the parse-angular-seed repository, run `npm install` to grab the dependenc
 
 For more information on AngularJS please check out http://angularjs.org/
 For more on LeanCloud, https://www.leancloud.cn
-For other questions, please contact [SK8 PTY LTD](http://sk8techs.com), http://sk8techs.com
+For other questions, please contact [SK8 Tech](http://sk8techs.com), http://sk8techs.com
 
 ## License
 MIT
